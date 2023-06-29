@@ -81,6 +81,7 @@ public class AtmProject {
 			System.out.println();
 		}
 		sc.close();
+		
 
 	}
 
